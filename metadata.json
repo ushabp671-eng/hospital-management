@@ -1,0 +1,6 @@
+{
+  "name": "MercyCare Hospital Management System",
+  "description": "Clinical operations platform for managing doctors, patients, staff, appointments, billing, and Java Spring Boot + MySQL source artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
